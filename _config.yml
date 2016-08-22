@@ -1,0 +1,14 @@
+layout_spectrum: 0.9227813109755516
+typography_spectrum: 0.6481032026931643
+color:
+  brandStrength: 0.5294430544599891
+  lightness: 0.8770096343941987
+  saturation: 0.4358415091410279
+  rhythmicContrast: 0.3786332216113806
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: MontyLov
